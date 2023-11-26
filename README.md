@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pragath G</h1>
-<h3 align="center">Software Engineer From Kerala</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Constantly learning and exploring new technologies to expand my skill set.
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **pthcreations@gmail.com**
+- 📫 How to reach me **pthswdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,7 +66,7 @@
 <summary>
   <b>Github Stats</b>
 </summary>
-<p> <img alt="Anin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pragath-pth&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
+<p> <img alt="Pragath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pragath-pth&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
 </details>
 
 
