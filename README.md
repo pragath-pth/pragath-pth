@@ -55,7 +55,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-<img src="https://icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="bitbucket" width="40" height="40"/> </a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
