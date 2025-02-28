@@ -31,8 +31,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
- 
+<img src=" https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png" alt="angular" width="40" height="40"/> </a>
+
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
  
@@ -71,5 +71,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragath-pth&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="pragath-pth" /></p>
-
-
