@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<img src="https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png" alt="angular" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
